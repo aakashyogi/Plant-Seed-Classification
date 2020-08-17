@@ -1,5 +1,5 @@
-# Plant-Seed-Classification
-Plant Seed Classification
+# Plant Seed Classification
+
 # Objective:
 Can you differentiate a weed from a crop seedling? Given an image
 differentiate between different plant types.
